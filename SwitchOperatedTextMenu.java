@@ -31,4 +31,10 @@ public class SwitchOperatedTextMenu {
 		} while (!quit);
 		System.out.println("Bye-bye!");
 	}
+	
+case 1:
+        System.out.println("You've chosen item #1");
+        System.out.println("My name is full_name.");
+        break;
+
 }
